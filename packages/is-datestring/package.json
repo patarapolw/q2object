@@ -1,0 +1,19 @@
+{
+  "name": "is-datestring",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Pacharapol Withayasakpunt",
+    "email": "patarapolw@gmail.com",
+    "url": "https://www.polvcode.dev"
+  },
+  "repository": "github:patarapolw/q2object",
+  "scripts": {
+    "prebuild": "yarn test",
+    "build": "tsc -p src/tsconfig.json",
+    "test": "ts-mocha --paths -p tests/tsconfig.json tests/**/*.spec.ts",
+    "prepack": "yarn build"
+  }
+}

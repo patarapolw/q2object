@@ -1,0 +1,2644 @@
+- title: Reveal-MD
+  theme: solarized
+- title: Dengue conference in Nakorn Pathom
+  date: 2019-12-03T00:00:00.000Z
+  categories:
+    - dengue
+- layout: post
+  title: Public health and information technology
+  date: '2019-12-18 11:01:05 +0700'
+  categories: TMHG528
+- title: Public health and information technology
+  date: 2019-12-18T00:00:00.000Z
+  tags:
+    - TMHG528
+- title: Introduction to Public Health Informatics
+  type: reveal
+  date: '2019-10-07T00:00:00.000Z'
+  tag: []
+- title: Terms in informatics
+  date: '2019-10-08T00:00:00.000Z'
+  type: reveal
+  shuffle: true
+  tag: []
+- title: The role of EA in heathcare
+  date: '2019-10-13T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Enterprise Architecture
+  date: '2019-10-13T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: A Missing Link to Guiding National Development and Implementation
+  date: '2019-10-13T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Computer Networks
+  date: '2019-10-14T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Health information privacy and security
+  date: '2019-10-16T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Incidences in Health IT security
+  type: reveal
+  date: '2019-10-18T00:00:00.000Z'
+  tag: []
+- title: Revving healthcare security
+  date: '2019-10-18T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: >-
+    The Role of Public Health Informatics in Enhancing Public Health
+    Surveillance
+  date: '2019-10-21T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Role of public health informatics in healthcare
+  date: '2019-10-21T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Healthcare Big Data and the Promise of Value-Based Care
+  date: '2019-10-22T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: 17V1C of Big Data
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - big data
+- title: BIG DATA AND FIVE V’S CHARACTERISTICS
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: What’s holding up the big data revolution in healthcare?
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: What is eHealth?
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: 'eHealth Strategy of Thailand, 2017'
+  type: reveal
+  date: '2019-10-24T00:00:00.000Z'
+  tag:
+    - TMHG523
+- title: eHealth WHO 2016
+  date: '2019-10-24T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: mHealth WHO 2011
+  date: '2019-10-24T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: eHealth interop in Thailand
+  date: '2019-10-29T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: >-
+    Factors influencing implementation success of guideline-based clinical
+    decision support systems
+  date: '2019-10-30T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Organizational issues = change
+  date: '2019-11-07T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Prosci ADKAR model
+  date: '2019-11-07T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Code of Ethics
+  type: reveal
+  date: '2019-11-08T00:00:00.000Z'
+  tag:
+    - TMHG523
+- title: >-
+    Choi BC. The past, present, and future of public health surveillance.
+    Scientifica (Cairo). 2012
+  date: 2019-12-01T00:00:00.000Z
+  tag:
+    - TMHG528
+    - public health surveillance
+- title: Implementing Syndromic Surveillance
+  date: 2019-12-04T00:00:00.000Z
+  tag:
+    - TMHG523
+    - surveillance
+    - syndromic surveillance
+- title: Infectious diease surveillance
+  date: 2019-12-04T00:00:00.000Z
+  tag:
+    - TMHG523
+    - infectious
+    - surveillance
+- title: Outbreak investigation
+  date: 2019-12-14T00:00:00.000Z
+  tag:
+    - TMHG528
+- tag:
+    - dengue
+    - DF
+    - DHF
+- title: 千字文 - 1/1
+  date: '2019-08-11'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/2
+  date: '2019-08-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/3
+  date: '2019-08-13'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/4
+  date: '2019-08-14'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/5
+  date: '2019-08-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/6
+  date: '2019-08-16'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/7
+  date: '2019-08-17'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/8
+  date: '2019-08-18'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/9
+  date: '2019-08-19'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/1
+  date: '2019-08-20'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/2
+  date: '2019-08-21'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/3
+  date: '2019-08-23'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/4
+  date: '2019-08-27'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/5
+  date: '2019-08-29'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/6
+  date: '2019-08-30'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/7
+  date: '2019-09-01'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/8
+  date: '2019-09-02'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/9
+  date: '2019-09-03'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/1
+  date: '2019-09-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/2
+  date: '2019-09-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/3
+  date: '2019-09-23'
+  tag:
+    - 千字文
+    - 汉字
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- js: dist/markdown.js
+  css: dist/speak.css
+- js: dist/markdown.js
+  css: dist/speak.css
+- title: A successful py2app setup.py code
+  date: 2018-01-27T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWTqh2q4wZ4ZT52Vfr_yoed2HUhOdAUOq3CANT8UBkNGiu_L_E
+  tag:
+    - python
+    - pyapp
+    - setup.py
+- title: My common.py
+  date: 2018-02-03T00:00:00.000Z
+  image: 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Lozingle_10032014.jpg'
+  tag:
+    - python
+    - common.py
+- title: Some useful python decorators I have made recently.
+  date: 2018-02-03T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUt_AjZKjRhRVQ3S3vaqXj2MCzImgWogbC6asInALTSP0NSWqT
+  tag:
+    - python
+    - decorator
+- title: Sharing Python project that works in another computer!
+  date: 2018-02-27T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSW4Ywh9fnwlOBcxAG8Mgg94zC55j3dYh1Y88YcB83wCjaBZVmA
+  tag:
+    - python
+- title: '[Python-web.py] Turning website into a desktop app'
+  date: 2018-02-14T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHKVrds2fU5fqVnsmUwdOgNyOUIssq0aXpgit1vx8L6dK3B2_j
+  tag:
+    - python
+    - desktop
+    - web.py
+    - PyQt5
+- title: Create reusable codes across Projects and potentially ShareIt!
+  date: 2018-02-07T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiJmcz8lmfxBjO1Svz-urf6yKiZ3RSnYpx2m2F-dnjp_SO204V
+  tag:
+    - python
+- title: An Analysis on Password Strength vs. Memorability
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgSYPCYNS5GZ9ec5BU2WDjn9YbZ1F2nEGABnZAhXZtSUkikTjg
+  date: 2018-03-02T00:00:00.000Z
+  tag:
+    - password
+    - nltk
+- title: Additional features for GitHub Pages blog
+  date: 2019-07-05T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9gKwkPcrFDuSH7LcaAnhMkpK1AVSVk6a9wDWauOY_J6CvKl2r
+  tag:
+    - GitHub Pages
+    - Disqus
+    - Jekyll
+    - Travis CI
+- title: Creating and editing Anki's *.apkg and *.anki2 via SQLite
+  date: 2019-07-30T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4ooqth-qfi7gtBk5tgnXGiF6CUAhQzLemTpLRUjtSUox19l9T
+  tag:
+    - anki
+    - sqlite
+    - peewee
+    - pinned
+- title: Injecting unsafe HTML into Bolt entries + CodeMirror/UIKit editor
+  date: 2019-07-09T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDO_p0QiaGehExbdLMqCY2MT7TP759whHkorR0MegIwQ4IHb4R
+  tag:
+    - php
+    - bolt CMS
+    - markdown
+- title: 'Cogear.js blog works for GitHub Pages too, but with many obstacles.'
+  date: 2019-07-02T00:00:00.000Z
+  image: 'https://i.imgur.com/53Ngcgc.png'
+  tag:
+    - cogear
+    - GitHub Pages
+- title: 'Registering domain names -- recurring costs, hidden costs and process'
+  date: 2019-07-10T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUBcM_Oc07DTj_67JLDTwBi2luXbZCULc4-SHcRRNZ_OC3Ca0L
+  tag:
+    - domain name
+    - namecheap
+    - cost
+- title: Create an Electron app from any web server in any programming language.
+  date: 2019-07-04T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMQFZ9SzNkt7LXFk6YgFPaVLs7tA2dZoM0tJokNVNz7q7Mi5Qa
+  tag:
+    - electron
+    - web server
+    - pinned
+- title: Git workflow in VS Code
+  date: 2019-07-16T00:00:00.000Z
+  image: 'https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png'
+  tag:
+    - vscode
+    - git
+    - GitHub
+    - pinned
+- title: GitHub Pages as blog Combo
+  date: 2019-07-03T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqbDL-RdwO45w24ZeCv-N5bQAZxXOnd2nbCpymQvswWr4exu6K
+  tag:
+    - GitHub Pages
+    - blogging
+- title: Installing Linux on macOS MacBook Air -- Major Obstacles
+  date: 2019-07-06T00:00:00.000Z
+  image: 'https://miro.medium.com/max/3000/1*Qsu6s05Xepx3_YKmmviURg.png'
+  tag:
+    - linux
+    - macOS
+- title: Simple dynamic typing in Kotlin with Kotson
+  date: 2019-07-25T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRI0rk1ieVKhHnaRc3h1vDHHeRJf7Lb8nycLGq_l3FFVXWRyuqa
+  tag:
+    - kotlin
+    - kotson
+    - dynamic typing
+    - gson
+    - pinned
+- title: Learning PHP from other programming languages
+  date: 2019-07-08T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-OMfTIWpQi63ocxmaCRVYOc0QIzgejLDHdFJtJuTYOmJgDqr_
+  tag:
+    - php
+    - bolt CMS
+    - pinned
+- title: Learning PHP and WordPress
+  date: 2019-07-14T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVqh_AlKt6OrUmeIB-ISQTAx8BM19-LsKA_yx-kjrekAOKjo5d
+  tag:
+    - wordpress
+    - php
+- title: Installing Linux and WiFi support
+  date: 2019-07-18T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSCmge9Ldedr9lg6MVCwYCa-suHasjdnQ59YSn6_yiK-hXT6IR
+  tag:
+    - linux
+    - wifi
+    - ubuntu
+    - Elementary OS
+- title: Linux Live CD runs slowly in VirtualBox
+  date: 2019-07-18T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcYZ2nd_E3QdJB9eb6AHjKZOMfyWnJdovpEonB1A8Ge7r6p8Yn
+  tag:
+    - live linux
+    - virtualbox
+- title: 'Python and Ruby is pre-installed in macOS, but ...'
+  date: 2019-07-07T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzRPgFnsH3URbSEs5o9rM9BxY-JcGggifXVXEx7bsUVk3KW9QA
+  tag:
+    - macOS
+    - python
+    - ruby
+    - node.js
+    - javascript
+- title: Hosting MongoDB version 4 server on DigitalOcean
+  date: 2019-07-01T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSe5Mr66_-cGVpyv_4SIkxAx1h0thctF1Ri8th9kS86mWy20wuQ
+  tag:
+    - mongodb
+    - digitalocean
+- title: My tsconfig.json
+  date: 2019-07-17T00:00:00.000Z
+  image: >-
+    https://3.bp.blogspot.com/-mbCB4VKUAT8/WvB5ZZoslaI/AAAAAAAAUAA/10O-BO8ynwgwf0RPGJiZDkduOw9QqKo8ACLcBGAs/s1600/typescript-configuration-file-tsconfig-json.jpg
+  tag:
+    - tsconfig.json
+    - typescript
+    - pinned
+- title: Various Node.js sqlite packages. What is the best?
+  date: 2019-07-17T00:00:00.000Z
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png
+  tag:
+    - node.js
+    - javascript
+    - sqlite
+- title: An easy way to self-host WordPress on DigitalOcean
+  date: 2019-07-14T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTs9vKZQKoNSRYaG51pYZlflYxZg78RGnnaXsWQCX6jfXBF-aHR
+  tag:
+    - wordpress
+    - DigitalOcean
+    - self hosting
+    - pinned
+- title: Recommended WordPress plugin for a new-comer
+  date: 2019-07-12T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-Q_KME2C8ylMrHebypduQQ1Hjw_sZ42jSLVZCLR4PkMTxuDr
+  tag:
+    - wordpress
+    - wordpress plugin
+- title: WordPress and self hosting
+  date: 2019-07-12T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfoy2AQQ8nE0iiVgkCDXxcZkIFSLZMiVUAWGkSG7dEVfmGJuHv
+  tag:
+    - wordpress
+    - self hosting
+    - hosting
+- title: 'Cordova, TypeScript, Vue and using features beyond WebView'
+  date: 2019-08-08T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9pgod2gRowruzWDJxQXtxJjS-P4cf3lMYJ-cnqf29fZKQFTQ6
+  tag:
+    - cordova
+    - typescript
+    - vue
+- title: Publish static websites to GitHub Pages (or any Git) cleanly with gh-pages
+  date: 2019-08-17T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFKi5a1hzYykg3TJiYcMvOJa2mjhRwSXxX2LCRPC-TfoUIc5TB
+  tag:
+    - gh-pages
+    - GitHub Pages
+    - heroku
+- title: Customizing JSON parser and stringifier
+  date: 2019-09-11T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7pdGqnbQneek9mD0QbbdEFO1kjNHxeG2jRt42OoCY2a9HefQy
+  tag:
+    - json
+    - python
+    - javascript
+- title: >-
+    Writing declaration.d.ts for JavaScript modules, and Extending incomplete
+    @types modules
+  date: 2019-10-27T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzrjWCZNR3zkBb4XyLO-jLQZiV9SI7tV0cV6HxKHXEYyoVDU5p
+  tag:
+    - typescript
+    - '@types'
+- title: macOS clean install and installing necessary dev applications
+  date: 2019-11-30T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2Up9c7iRc_aIDVfouaC2OAZYiK6o7ZzermxFeFcsqL3OHb_w8
+  tag:
+    - macOS
+    - macOS reformat
+    - japanese
+    - chinese
+    - mandarin
+- title: Git fork and NPM install git-URL in your own version
+  date: 2019-11-22T00:00:00.000Z
+  image: 'https://img.pngio.com/git-png-4-png-image-git-png-1024_600.png'
+  tag:
+    - git
+    - GitHub
+    - npm
+    - python
+    - TypeScript
+- title: 'Nuxt magic with asyncData, and planning'
+  date: 2019-11-28T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRP6tsihLLVMDGuWvclr05EvJQPvrhSeSWV2Klic2tkhpQywtbj
+  tag:
+    - nuxt
+    - Node.js
+- title: SEO meta tags and Server Side Rendering automation
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRB_w1OLUgyb1u3o2WoyZuDVZHMnVpIGxYqw_awuhbxl-WenPIr
+  date: 2019-11-20T00:00:00.000Z
+  tag:
+    - SEO
+    - blog.nuxt
+    - nuxt
+    - SSR
+- title: 'Building JavaScript assets offline, before deploying to the web server'
+  date: 2019-12-25T00:00:00.000Z
+  tag:
+    - JavaScript
+    - Netlify
+- title: Don't forget Google Webmaster
+  date: 2019-12-05T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPfYmTcJPvPkZtVffhOKF5aTtxVMc3ZkgfCGpu1byb7YxUGLp_
+  tag:
+    - google
+    - SEO
+- title: 千字文 - 1/1
+  date: '2019-08-11'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/2
+  date: '2019-08-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/3
+  date: '2019-08-13'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/4
+  date: '2019-08-14'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/5
+  date: '2019-08-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/6
+  date: '2019-08-16'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/7
+  date: '2019-08-17'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/8
+  date: '2019-08-18'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/9
+  date: '2019-08-19'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/1
+  date: '2019-08-20'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/2
+  date: '2019-08-21'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/3
+  date: '2019-08-23'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/4
+  date: '2019-08-27'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/5
+  date: '2019-08-29'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/6
+  date: '2019-08-30'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/7
+  date: '2019-09-01'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/8
+  date: '2019-09-02'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/9
+  date: '2019-09-03'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/1
+  date: '2019-09-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/2
+  date: '2019-09-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/3
+  date: '2019-09-23'
+  tag:
+    - 千字文
+    - 汉字
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Dengue conference
+  image: /data/media/2019-12-03/dengue.jpg
+  date: 2019-12-03T00:00:00.000Z
+  tag:
+    - dengue
+    - DF
+    - DHF
+    - DSS
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- title: 新年の解説（レッソルーション）
+  tag:
+    - 解説
+- title: Russian alphabet mapping
+  tag:
+    - basics
+- title: 千字文 - 1/1
+  date: '2019-08-11'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/2
+  date: '2019-08-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/3
+  date: '2019-08-13'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/4
+  date: '2019-08-14'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/5
+  date: '2019-08-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/6
+  date: '2019-08-16'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/7
+  date: '2019-08-17'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/8
+  date: '2019-08-18'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/9
+  date: '2019-08-19'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/1
+  date: '2019-08-20'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/2
+  date: '2019-08-21'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/3
+  date: '2019-08-23'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/4
+  date: '2019-08-27'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/5
+  date: '2019-08-29'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/6
+  date: '2019-08-30'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/7
+  date: '2019-09-01'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/8
+  date: '2019-09-02'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/9
+  date: '2019-09-03'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/1
+  date: '2019-09-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/2
+  date: '2019-09-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/3
+  date: '2019-09-23'
+  tag:
+    - 千字文
+    - 汉字
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: 千字文
+  date: '2019-08-10'
+  tag:
+    - 千字文
+    - 汉字
+    - essay
+- title: 句子 1.1
+  date: '2019-08-16 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.2
+  date: '2019-08-17 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.3
+  date: '2019-08-17 02:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 身体1
+  date: '2019-08-18 01:00'
+  tag:
+    - 分类词汇
+    - 身体
+- title: Learning Chinese using Git -- ZhLab
+  date: '2019-09-25'
+  tag:
+    - diary
+- title: Fruit and vegetables quiz
+  date: '2019-09-30'
+  image: 'https://images.chinatimes.com/newsphoto/2018-12-31/900/20181231000035.jpg'
+  tag:
+    - quiz
+- title: Move to new URL notice
+  date: '2019-10-07'
+  tag:
+    - diary
+- title: 'Chinese from Emoji 1: 学习用品'
+  date: 2019-11-26T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: 'Chinese from Emoji 2: 陆地动物'
+  date: 2019-11-27T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: Moving to Netlify
+  date: 2019-11-25T00:00:00.000Z
+  tag:
+    - diary
+- title: Back to former glory
+  date: 2019-12-07T00:00:00.000Z
+  tag:
+    - vuetify
+    - resources
+    - slides
+- title: 'Chinese from Emoji 3: 水生和昆虫'
+  date: 2019-12-08T00:00:00.000Z
+  image: >-
+    https://steamuserimages-a.akamaihd.net/ugc/264973755082472713/B44953104F4F5FBB70205CCCD759E511C0E50E52/
+  tag:
+    - vocab
+    - emoji
+    - quiz
+    - animal
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: 新年の解説（レッソルーション）
+  tag:
+    - 解説
+- title: Russian alphabet mapping
+  tag:
+    - basics
+- title: 千字文
+  date: '2019-08-10'
+  tag:
+    - 千字文
+    - 汉字
+    - essay
+- title: 句子 1.1
+  date: '2019-08-16 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.2
+  date: '2019-08-17 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.3
+  date: '2019-08-17 02:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 身体1
+  date: '2019-08-18 01:00'
+  tag:
+    - 分类词汇
+    - 身体
+- title: Learning Chinese using Git -- ZhLab
+  date: '2019-09-25'
+  tag:
+    - diary
+- title: Fruit and vegetables quiz
+  date: '2019-09-30'
+  image: 'https://images.chinatimes.com/newsphoto/2018-12-31/900/20181231000035.jpg'
+  tag:
+    - quiz
+- title: Move to new URL notice
+  date: '2019-10-07'
+  tag:
+    - diary
+- title: 'Chinese from Emoji 1: 学习用品'
+  date: 2019-11-26T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: 'Chinese from Emoji 2: 陆地动物'
+  date: 2019-11-27T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: Moving to Netlify
+  date: 2019-11-25T00:00:00.000Z
+  tag:
+    - diary
+- title: Back to former glory
+  date: 2019-12-07T00:00:00.000Z
+  tag:
+    - vuetify
+    - resources
+    - slides
+- title: 'Chinese from Emoji 3: 水生和昆虫'
+  date: 2019-12-08T00:00:00.000Z
+  image: >-
+    https://steamuserimages-a.akamaihd.net/ugc/264973755082472713/B44953104F4F5FBB70205CCCD759E511C0E50E52/
+  tag:
+    - vocab
+    - emoji
+    - quiz
+    - animal
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- title: 千字文
+  date: '2019-08-10'
+  tag:
+    - 千字文
+    - 汉字
+    - essay
+- title: 句子 1.1
+  date: '2019-08-16 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.2
+  date: '2019-08-17 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.3
+  date: '2019-08-17 02:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 身体1
+  date: '2019-08-18 01:00'
+  tag:
+    - 分类词汇
+    - 身体
+- title: Learning Chinese using Git -- ZhLab
+  date: '2019-09-25'
+  tag:
+    - diary
+- title: Fruit and vegetables quiz
+  date: '2019-09-30'
+  image: 'https://images.chinatimes.com/newsphoto/2018-12-31/900/20181231000035.jpg'
+  tag:
+    - quiz
+- title: Move to new URL notice
+  date: '2019-10-07'
+  tag:
+    - diary
+- title: 'Chinese from Emoji 1: 学习用品'
+  date: 2019-11-26T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: 'Chinese from Emoji 2: 陆地动物'
+  date: 2019-11-27T00:00:00.000Z
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: Moving to Netlify
+  date: 2019-11-25T00:00:00.000Z
+  tag:
+    - diary
+- title: Back to former glory
+  date: 2019-12-07T00:00:00.000Z
+  tag:
+    - vuetify
+    - resources
+    - slides
+- title: 'Chinese from Emoji 3: 水生和昆虫'
+  date: 2019-12-08T00:00:00.000Z
+  image: >-
+    https://steamuserimages-a.akamaihd.net/ugc/264973755082472713/B44953104F4F5FBB70205CCCD759E511C0E50E52/
+  tag:
+    - vocab
+    - emoji
+    - quiz
+    - animal
+- title: Reveal-MD
+  theme: solarized
+- title: Dengue conference in Nakorn Pathom
+  date: '2019-12-03T00:00:00.000Z'
+  categories:
+    - dengue
+- layout: post
+  title: Public health and information technology
+  date: '2019-12-18 11:01:05 +0700'
+  categories: TMHG528
+- title: Public health and information technology
+  date: '2019-12-18T00:00:00.000Z'
+  tags:
+    - TMHG528
+- title: Introduction to Public Health Informatics
+  type: reveal
+  date: '2019-10-07T00:00:00.000Z'
+  tag: []
+- title: Terms in informatics
+  date: '2019-10-08T00:00:00.000Z'
+  type: reveal
+  shuffle: true
+  tag: []
+- title: The role of EA in heathcare
+  date: '2019-10-13T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Enterprise Architecture
+  date: '2019-10-13T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: A Missing Link to Guiding National Development and Implementation
+  date: '2019-10-13T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Computer Networks
+  date: '2019-10-14T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Health information privacy and security
+  date: '2019-10-16T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: Incidences in Health IT security
+  type: reveal
+  date: '2019-10-18T00:00:00.000Z'
+  tag: []
+- title: Revving healthcare security
+  date: '2019-10-18T00:00:00.000Z'
+  type: reveal
+  tag: []
+- title: >-
+    The Role of Public Health Informatics in Enhancing Public Health
+    Surveillance
+  date: '2019-10-21T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Role of public health informatics in healthcare
+  date: '2019-10-21T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Healthcare Big Data and the Promise of Value-Based Care
+  date: '2019-10-22T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: 17V1C of Big Data
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - big data
+- title: BIG DATA AND FIVE V’S CHARACTERISTICS
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: What’s holding up the big data revolution in healthcare?
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: What is eHealth?
+  date: '2019-10-23T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: 'eHealth Strategy of Thailand, 2017'
+  type: reveal
+  date: '2019-10-24T00:00:00.000Z'
+  tag:
+    - TMHG523
+- title: eHealth WHO 2016
+  date: '2019-10-24T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: mHealth WHO 2011
+  date: '2019-10-24T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: eHealth interop in Thailand
+  date: '2019-10-29T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: >-
+    Factors influencing implementation success of guideline-based clinical
+    decision support systems
+  date: '2019-10-30T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Organizational issues = change
+  date: '2019-11-07T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Prosci ADKAR model
+  date: '2019-11-07T00:00:00.000Z'
+  type: reveal
+  tag:
+    - TMHG523
+- title: Code of Ethics
+  type: reveal
+  date: '2019-11-08T00:00:00.000Z'
+  tag:
+    - TMHG523
+- title: >-
+    Choi BC. The past, present, and future of public health surveillance.
+    Scientifica (Cairo). 2012
+  date: '2019-12-01T00:00:00.000Z'
+  tag:
+    - TMHG528
+    - public health surveillance
+- title: Implementing Syndromic Surveillance
+  date: '2019-12-04T00:00:00.000Z'
+  tag:
+    - TMHG523
+    - surveillance
+    - syndromic surveillance
+- title: Infectious diease surveillance
+  date: '2019-12-04T00:00:00.000Z'
+  tag:
+    - TMHG523
+    - infectious
+    - surveillance
+- title: Outbreak investigation
+  date: '2019-12-14T00:00:00.000Z'
+  tag:
+    - TMHG528
+- tag:
+    - dengue
+    - DF
+    - DHF
+- title: 千字文 - 1/1
+  date: '2019-08-11'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/2
+  date: '2019-08-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/3
+  date: '2019-08-13'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/4
+  date: '2019-08-14'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/5
+  date: '2019-08-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/6
+  date: '2019-08-16'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/7
+  date: '2019-08-17'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/8
+  date: '2019-08-18'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/9
+  date: '2019-08-19'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/1
+  date: '2019-08-20'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/2
+  date: '2019-08-21'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/3
+  date: '2019-08-23'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/4
+  date: '2019-08-27'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/5
+  date: '2019-08-29'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/6
+  date: '2019-08-30'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/7
+  date: '2019-09-01'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/8
+  date: '2019-09-02'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/9
+  date: '2019-09-03'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/1
+  date: '2019-09-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/2
+  date: '2019-09-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/3
+  date: '2019-09-23'
+  tag:
+    - 千字文
+    - 汉字
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- js: dist/markdown.js
+  css: dist/speak.css
+- js: dist/markdown.js
+  css: dist/speak.css
+- title: A successful py2app setup.py code
+  date: '2018-01-27T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWTqh2q4wZ4ZT52Vfr_yoed2HUhOdAUOq3CANT8UBkNGiu_L_E
+  tag:
+    - python
+    - pyapp
+    - setup.py
+- title: My common.py
+  date: '2018-02-03T00:00:00.000Z'
+  image: 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Lozingle_10032014.jpg'
+  tag:
+    - python
+    - common.py
+- title: Some useful python decorators I have made recently.
+  date: '2018-02-03T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUt_AjZKjRhRVQ3S3vaqXj2MCzImgWogbC6asInALTSP0NSWqT
+  tag:
+    - python
+    - decorator
+- title: Sharing Python project that works in another computer!
+  date: '2018-02-27T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSW4Ywh9fnwlOBcxAG8Mgg94zC55j3dYh1Y88YcB83wCjaBZVmA
+  tag:
+    - python
+- title: '[Python-web.py] Turning website into a desktop app'
+  date: '2018-02-14T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHKVrds2fU5fqVnsmUwdOgNyOUIssq0aXpgit1vx8L6dK3B2_j
+  tag:
+    - python
+    - desktop
+    - web.py
+    - PyQt5
+- title: Create reusable codes across Projects and potentially ShareIt!
+  date: '2018-02-07T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiJmcz8lmfxBjO1Svz-urf6yKiZ3RSnYpx2m2F-dnjp_SO204V
+  tag:
+    - python
+- title: An Analysis on Password Strength vs. Memorability
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgSYPCYNS5GZ9ec5BU2WDjn9YbZ1F2nEGABnZAhXZtSUkikTjg
+  date: '2018-03-02T00:00:00.000Z'
+  tag:
+    - password
+    - nltk
+- title: Additional features for GitHub Pages blog
+  date: '2019-07-05T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9gKwkPcrFDuSH7LcaAnhMkpK1AVSVk6a9wDWauOY_J6CvKl2r
+  tag:
+    - GitHub Pages
+    - Disqus
+    - Jekyll
+    - Travis CI
+- title: Creating and editing Anki's *.apkg and *.anki2 via SQLite
+  date: '2019-07-30T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4ooqth-qfi7gtBk5tgnXGiF6CUAhQzLemTpLRUjtSUox19l9T
+  tag:
+    - anki
+    - sqlite
+    - peewee
+    - pinned
+- title: Injecting unsafe HTML into Bolt entries + CodeMirror/UIKit editor
+  date: '2019-07-09T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDO_p0QiaGehExbdLMqCY2MT7TP759whHkorR0MegIwQ4IHb4R
+  tag:
+    - php
+    - bolt CMS
+    - markdown
+- title: 'Cogear.js blog works for GitHub Pages too, but with many obstacles.'
+  date: '2019-07-02T00:00:00.000Z'
+  image: 'https://i.imgur.com/53Ngcgc.png'
+  tag:
+    - cogear
+    - GitHub Pages
+- title: 'Registering domain names -- recurring costs, hidden costs and process'
+  date: '2019-07-10T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUBcM_Oc07DTj_67JLDTwBi2luXbZCULc4-SHcRRNZ_OC3Ca0L
+  tag:
+    - domain name
+    - namecheap
+    - cost
+- title: Create an Electron app from any web server in any programming language.
+  date: '2019-07-04T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMQFZ9SzNkt7LXFk6YgFPaVLs7tA2dZoM0tJokNVNz7q7Mi5Qa
+  tag:
+    - electron
+    - web server
+    - pinned
+- title: Git workflow in VS Code
+  date: '2019-07-16T00:00:00.000Z'
+  image: 'https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png'
+  tag:
+    - vscode
+    - git
+    - GitHub
+    - pinned
+- title: GitHub Pages as blog Combo
+  date: '2019-07-03T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqbDL-RdwO45w24ZeCv-N5bQAZxXOnd2nbCpymQvswWr4exu6K
+  tag:
+    - GitHub Pages
+    - blogging
+- title: Installing Linux on macOS MacBook Air -- Major Obstacles
+  date: '2019-07-06T00:00:00.000Z'
+  image: 'https://miro.medium.com/max/3000/1*Qsu6s05Xepx3_YKmmviURg.png'
+  tag:
+    - linux
+    - macOS
+- title: Simple dynamic typing in Kotlin with Kotson
+  date: '2019-07-25T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRI0rk1ieVKhHnaRc3h1vDHHeRJf7Lb8nycLGq_l3FFVXWRyuqa
+  tag:
+    - kotlin
+    - kotson
+    - dynamic typing
+    - gson
+    - pinned
+- title: Learning PHP from other programming languages
+  date: '2019-07-08T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-OMfTIWpQi63ocxmaCRVYOc0QIzgejLDHdFJtJuTYOmJgDqr_
+  tag:
+    - php
+    - bolt CMS
+    - pinned
+- title: Learning PHP and WordPress
+  date: '2019-07-14T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVqh_AlKt6OrUmeIB-ISQTAx8BM19-LsKA_yx-kjrekAOKjo5d
+  tag:
+    - wordpress
+    - php
+- title: Installing Linux and WiFi support
+  date: '2019-07-18T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSCmge9Ldedr9lg6MVCwYCa-suHasjdnQ59YSn6_yiK-hXT6IR
+  tag:
+    - linux
+    - wifi
+    - ubuntu
+    - Elementary OS
+- title: Linux Live CD runs slowly in VirtualBox
+  date: '2019-07-18T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcYZ2nd_E3QdJB9eb6AHjKZOMfyWnJdovpEonB1A8Ge7r6p8Yn
+  tag:
+    - live linux
+    - virtualbox
+- title: 'Python and Ruby is pre-installed in macOS, but ...'
+  date: '2019-07-07T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzRPgFnsH3URbSEs5o9rM9BxY-JcGggifXVXEx7bsUVk3KW9QA
+  tag:
+    - macOS
+    - python
+    - ruby
+    - node.js
+    - javascript
+- title: Hosting MongoDB version 4 server on DigitalOcean
+  date: '2019-07-01T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSe5Mr66_-cGVpyv_4SIkxAx1h0thctF1Ri8th9kS86mWy20wuQ
+  tag:
+    - mongodb
+    - digitalocean
+- title: My tsconfig.json
+  date: '2019-07-17T00:00:00.000Z'
+  image: >-
+    https://3.bp.blogspot.com/-mbCB4VKUAT8/WvB5ZZoslaI/AAAAAAAAUAA/10O-BO8ynwgwf0RPGJiZDkduOw9QqKo8ACLcBGAs/s1600/typescript-configuration-file-tsconfig-json.jpg
+  tag:
+    - tsconfig.json
+    - typescript
+    - pinned
+- title: Various Node.js sqlite packages. What is the best?
+  date: '2019-07-17T00:00:00.000Z'
+  image: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png
+  tag:
+    - node.js
+    - javascript
+    - sqlite
+- title: An easy way to self-host WordPress on DigitalOcean
+  date: '2019-07-14T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTs9vKZQKoNSRYaG51pYZlflYxZg78RGnnaXsWQCX6jfXBF-aHR
+  tag:
+    - wordpress
+    - DigitalOcean
+    - self hosting
+    - pinned
+- title: Recommended WordPress plugin for a new-comer
+  date: '2019-07-12T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-Q_KME2C8ylMrHebypduQQ1Hjw_sZ42jSLVZCLR4PkMTxuDr
+  tag:
+    - wordpress
+    - wordpress plugin
+- title: WordPress and self hosting
+  date: '2019-07-12T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfoy2AQQ8nE0iiVgkCDXxcZkIFSLZMiVUAWGkSG7dEVfmGJuHv
+  tag:
+    - wordpress
+    - self hosting
+    - hosting
+- title: 'Cordova, TypeScript, Vue and using features beyond WebView'
+  date: '2019-08-08T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9pgod2gRowruzWDJxQXtxJjS-P4cf3lMYJ-cnqf29fZKQFTQ6
+  tag:
+    - cordova
+    - typescript
+    - vue
+- title: Publish static websites to GitHub Pages (or any Git) cleanly with gh-pages
+  date: '2019-08-17T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFKi5a1hzYykg3TJiYcMvOJa2mjhRwSXxX2LCRPC-TfoUIc5TB
+  tag:
+    - gh-pages
+    - GitHub Pages
+    - heroku
+- title: Customizing JSON parser and stringifier
+  date: '2019-09-11T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7pdGqnbQneek9mD0QbbdEFO1kjNHxeG2jRt42OoCY2a9HefQy
+  tag:
+    - json
+    - python
+    - javascript
+- title: >-
+    Writing declaration.d.ts for JavaScript modules, and Extending incomplete
+    @types modules
+  date: '2019-10-27T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzrjWCZNR3zkBb4XyLO-jLQZiV9SI7tV0cV6HxKHXEYyoVDU5p
+  tag:
+    - typescript
+    - '@types'
+- title: macOS clean install and installing necessary dev applications
+  date: '2019-11-30T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2Up9c7iRc_aIDVfouaC2OAZYiK6o7ZzermxFeFcsqL3OHb_w8
+  tag:
+    - macOS
+    - macOS reformat
+    - japanese
+    - chinese
+    - mandarin
+- title: Git fork and NPM install git-URL in your own version
+  date: '2019-11-22T00:00:00.000Z'
+  image: 'https://img.pngio.com/git-png-4-png-image-git-png-1024_600.png'
+  tag:
+    - git
+    - GitHub
+    - npm
+    - python
+    - TypeScript
+- title: 'Nuxt magic with asyncData, and planning'
+  date: '2019-11-28T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRP6tsihLLVMDGuWvclr05EvJQPvrhSeSWV2Klic2tkhpQywtbj
+  tag:
+    - nuxt
+    - Node.js
+- title: SEO meta tags and Server Side Rendering automation
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRB_w1OLUgyb1u3o2WoyZuDVZHMnVpIGxYqw_awuhbxl-WenPIr
+  date: '2019-11-20T00:00:00.000Z'
+  tag:
+    - SEO
+    - blog.nuxt
+    - nuxt
+    - SSR
+- title: 'Building JavaScript assets offline, before deploying to the web server'
+  date: '2019-12-25T00:00:00.000Z'
+  tag:
+    - JavaScript
+    - Netlify
+- title: Don't forget Google Webmaster
+  date: '2019-12-05T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPfYmTcJPvPkZtVffhOKF5aTtxVMc3ZkgfCGpu1byb7YxUGLp_
+  tag:
+    - google
+    - SEO
+- title: 千字文 - 1/1
+  date: '2019-08-11'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/2
+  date: '2019-08-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/3
+  date: '2019-08-13'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/4
+  date: '2019-08-14'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/5
+  date: '2019-08-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/6
+  date: '2019-08-16'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/7
+  date: '2019-08-17'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/8
+  date: '2019-08-18'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/9
+  date: '2019-08-19'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/1
+  date: '2019-08-20'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/2
+  date: '2019-08-21'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/3
+  date: '2019-08-23'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/4
+  date: '2019-08-27'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/5
+  date: '2019-08-29'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/6
+  date: '2019-08-30'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/7
+  date: '2019-09-01'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/8
+  date: '2019-09-02'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/9
+  date: '2019-09-03'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/1
+  date: '2019-09-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/2
+  date: '2019-09-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/3
+  date: '2019-09-23'
+  tag:
+    - 千字文
+    - 汉字
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Dengue conference
+  image: /data/media/2019-12-03/dengue.jpg
+  date: '2019-12-03T00:00:00.000Z'
+  tag:
+    - dengue
+    - DF
+    - DHF
+    - DSS
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- title: 新年の解説（レッソルーション）
+  tag:
+    - 解説
+- title: Russian alphabet mapping
+  tag:
+    - basics
+- title: 千字文 - 1/1
+  date: '2019-08-11'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/2
+  date: '2019-08-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/3
+  date: '2019-08-13'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/4
+  date: '2019-08-14'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/5
+  date: '2019-08-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/6
+  date: '2019-08-16'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/7
+  date: '2019-08-17'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/8
+  date: '2019-08-18'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 1/9
+  date: '2019-08-19'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/1
+  date: '2019-08-20'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/2
+  date: '2019-08-21'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/3
+  date: '2019-08-23'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/4
+  date: '2019-08-27'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/5
+  date: '2019-08-29'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/6
+  date: '2019-08-30'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/7
+  date: '2019-09-01'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/8
+  date: '2019-09-02'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 2/9
+  date: '2019-09-03'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/1
+  date: '2019-09-12'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/2
+  date: '2019-09-15'
+  tag:
+    - 千字文
+    - 汉字
+- title: 千字文 - 3/3
+  date: '2019-09-23'
+  tag:
+    - 千字文
+    - 汉字
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: 千字文
+  date: '2019-08-10'
+  tag:
+    - 千字文
+    - 汉字
+    - essay
+- title: 句子 1.1
+  date: '2019-08-16 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.2
+  date: '2019-08-17 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.3
+  date: '2019-08-17 02:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 身体1
+  date: '2019-08-18 01:00'
+  tag:
+    - 分类词汇
+    - 身体
+- title: Learning Chinese using Git -- ZhLab
+  date: '2019-09-25'
+  tag:
+    - diary
+- title: Fruit and vegetables quiz
+  date: '2019-09-30'
+  image: 'https://images.chinatimes.com/newsphoto/2018-12-31/900/20181231000035.jpg'
+  tag:
+    - quiz
+- title: Move to new URL notice
+  date: '2019-10-07'
+  tag:
+    - diary
+- title: 'Chinese from Emoji 1: 学习用品'
+  date: '2019-11-26T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: 'Chinese from Emoji 2: 陆地动物'
+  date: '2019-11-27T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: Moving to Netlify
+  date: '2019-11-25T00:00:00.000Z'
+  tag:
+    - diary
+- title: Back to former glory
+  date: '2019-12-07T00:00:00.000Z'
+  tag:
+    - vuetify
+    - resources
+    - slides
+- title: 'Chinese from Emoji 3: 水生和昆虫'
+  date: '2019-12-08T00:00:00.000Z'
+  image: >-
+    https://steamuserimages-a.akamaihd.net/ugc/264973755082472713/B44953104F4F5FBB70205CCCD759E511C0E50E52/
+  tag:
+    - vocab
+    - emoji
+    - quiz
+    - animal
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: 新年の解説（レッソルーション）
+  tag:
+    - 解説
+- title: Russian alphabet mapping
+  tag:
+    - basics
+- title: 千字文
+  date: '2019-08-10'
+  tag:
+    - 千字文
+    - 汉字
+    - essay
+- title: 句子 1.1
+  date: '2019-08-16 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.2
+  date: '2019-08-17 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.3
+  date: '2019-08-17 02:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 身体1
+  date: '2019-08-18 01:00'
+  tag:
+    - 分类词汇
+    - 身体
+- title: Learning Chinese using Git -- ZhLab
+  date: '2019-09-25'
+  tag:
+    - diary
+- title: Fruit and vegetables quiz
+  date: '2019-09-30'
+  image: 'https://images.chinatimes.com/newsphoto/2018-12-31/900/20181231000035.jpg'
+  tag:
+    - quiz
+- title: Move to new URL notice
+  date: '2019-10-07'
+  tag:
+    - diary
+- title: 'Chinese from Emoji 1: 学习用品'
+  date: '2019-11-26T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: 'Chinese from Emoji 2: 陆地动物'
+  date: '2019-11-27T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: Moving to Netlify
+  date: '2019-11-25T00:00:00.000Z'
+  tag:
+    - diary
+- title: Back to former glory
+  date: '2019-12-07T00:00:00.000Z'
+  tag:
+    - vuetify
+    - resources
+    - slides
+- title: 'Chinese from Emoji 3: 水生和昆虫'
+  date: '2019-12-08T00:00:00.000Z'
+  image: >-
+    https://steamuserimages-a.akamaihd.net/ugc/264973755082472713/B44953104F4F5FBB70205CCCD759E511C0E50E52/
+  tag:
+    - vocab
+    - emoji
+    - quiz
+    - animal
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+  source: 'https://th.hujiang.com/new/p394824/'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: false
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- shuffle: true
+  js:
+    - 'https://patarapolw.github.io/s2speak/index.min.js?key=x'
+- title: Daily life stuff slide
+  type: reveal
+  date: '2019-10-03T00:00:00.000Z'
+  deck: emoji/human
+  tag:
+    - human
+    - vocab
+    - emoji
+- title: 交通 listening quiz
+  shuffle: true
+- title: 火车站 vocab
+  shuffle: true
+- title: 千字文
+  date: '2019-08-10'
+  tag:
+    - 千字文
+    - 汉字
+    - essay
+- title: 句子 1.1
+  date: '2019-08-16 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.2
+  date: '2019-08-17 01:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 句子 1.3
+  date: '2019-08-17 02:00'
+  tag:
+    - 千字文
+    - 句子
+- title: 身体1
+  date: '2019-08-18 01:00'
+  tag:
+    - 分类词汇
+    - 身体
+- title: Learning Chinese using Git -- ZhLab
+  date: '2019-09-25'
+  tag:
+    - diary
+- title: Fruit and vegetables quiz
+  date: '2019-09-30'
+  image: 'https://images.chinatimes.com/newsphoto/2018-12-31/900/20181231000035.jpg'
+  tag:
+    - quiz
+- title: Move to new URL notice
+  date: '2019-10-07'
+  tag:
+    - diary
+- title: 'Chinese from Emoji 1: 学习用品'
+  date: '2019-11-26T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: 'Chinese from Emoji 2: 陆地动物'
+  date: '2019-11-27T00:00:00.000Z'
+  image: >-
+    https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpaKJKlp3UhF_S-Q5sPWmLnKhwb8Ey0sqA7ersas1OJcAgZFzB
+  tag:
+    - vocab
+    - emoji
+    - quiz
+- title: Moving to Netlify
+  date: '2019-11-25T00:00:00.000Z'
+  tag:
+    - diary
+- title: Back to former glory
+  date: '2019-12-07T00:00:00.000Z'
+  tag:
+    - vuetify
+    - resources
+    - slides
+- title: 'Chinese from Emoji 3: 水生和昆虫'
+  date: '2019-12-08T00:00:00.000Z'
+  image: >-
+    https://steamuserimages-a.akamaihd.net/ugc/264973755082472713/B44953104F4F5FBB70205CCCD759E511C0E50E52/
+  tag:
+    - vocab
+    - emoji
+    - quiz
+    - animal

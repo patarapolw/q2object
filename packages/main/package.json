@@ -1,0 +1,36 @@
+{
+  "name": "q2object",
+  "version": "1.0.0",
+  "repository": "github:patarapolw/q2object",
+  "license": "MIT",
+  "author": {
+    "name": "Pacharapol Withayasakpunt",
+    "email": "patarapolw@gmail.com",
+    "url": "https://www.polvcode.dev"
+  },
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "clone-root": "node ./clone-root.js",
+    "test:create-data": "node ./tests/create-data.js",
+    "prebuild": "yarn test",
+    "build": "tsc -p src/tsconfig.json",
+    "browserify": "parcel build -d umd -o index.min.js ./browser.ts",
+    "test": "ts-mocha --paths -p tests/tsconfig.json tests/**/*.spec.ts",
+    "prepack": "yarn build && yarn browserify"
+  },
+  "devDependencies": {
+    "@types/nanoid": "^2.1.0",
+    "fast-glob": "^3.1.1",
+    "gray-matter": "^4.0.2",
+    "parcel-bundler": "^1.12.4",
+    "sort-package-json": "^1.37.0",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.19",
+    "nanoid": "^2.1.9",
+    "parse-duration": "^0.1.2",
+    "not-datestring": "*"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@local/test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dayjs": "^1.8.19",
+    "js-yaml": "^3.13.1",
+    "mocha": "^7.0.0",
+    "parse-duration": "^0.1.2"
+  }
+}
