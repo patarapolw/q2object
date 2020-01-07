@@ -1,9 +1,9 @@
 /**
- * Ambiguous datestring prevention -- return Date if simple
+ * Ambiguous datestring prevention -- return safe string in ISO format if simple
  *
  * Otherwise, throw named error
  */
-export function maybeDatestring (s: string): string | Date {
+export function maybeDatestring (s: string): string {
   let m: RegExpExecArray | null = null
 
   if (typeof s !== 'string') {
@@ -11,7 +11,7 @@ export function maybeDatestring (s: string): string | Date {
   }
 
   if (m = /(\d{4})(\d{2})(\d{2})?/.exec(s)) {
-    return new Date(parseInt(m[1]), parseInt(m[2]), m[3] ? parseInt(m[3]) : 1)
+    return `${m[1].padStart(2, '0')}-${m[2].padStart(2, '0')}-${(m[3] || '1').padStart(2, '0')}`
   }
 
   if (/[-+]?(?:\d+(?:\.\d+)?|\.\d+)/.test(s)) {

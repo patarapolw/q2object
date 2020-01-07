@@ -6,13 +6,12 @@ import { maybeDatestring } from '@/.'
 
 describe('Is a valid Number string', () => {
   [
-    ['20190101', new Date(2019, 1, 1)],
-    ['201902', new Date(2019, 2)],
+    ['20190101', '2019-01-01'],
+    ['201902', '2019-02-01'],
   ].forEach(([t, expected]) => {
     it(yaml.dump(t), () => {
-      const d = maybeDatestring(t as any) as Date
-      assert(d instanceof Date)
-      assert.strictEqual(d.toISOString(), (expected as Date).toISOString())
+      const d = maybeDatestring(t)
+      assert.strictEqual(d, expected)
     })
   })
 })
