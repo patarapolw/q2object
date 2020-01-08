@@ -1,0 +1,6 @@
+getCond:
+  - input: ''
+  - input: ' '
+  - input: 'typescript'
+  - input: 'date<-1d'
+  - input: 'title:markdown'

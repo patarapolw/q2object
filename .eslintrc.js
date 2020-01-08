@@ -23,6 +23,7 @@ module.exports = {
     'no-unused-vars': 0,
     'no-cond-assign': 0,
     'no-undef': 0,
+    'no-useless-constructor': 0,
     'arrow-parens': ['error', 'always'],
     'quote-props': ['error', 'as-needed'],
     'comma-dangle': ['error', 'always-multiline'],

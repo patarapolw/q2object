@@ -30,7 +30,7 @@
   "dependencies": {
     "dayjs": "^1.8.19",
     "nanoid": "^2.1.9",
-    "parse-duration": "^0.1.2",
-    "not-datestring": "*"
+    "is-datestring": "*",
+    "jstimeparse": "*"
   }
 }

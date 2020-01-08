@@ -1,6 +1,7 @@
 import dayjs from 'dayjs'
 import nanoid from 'nanoid'
-import parseDuration from 'parse-duration'
+import { parseDurationToSeconds } from 'jstimeparse'
+import { maybeDatestring } from 'is-datestring'
 
 export interface ISortOptions {
   key: string
@@ -229,18 +230,9 @@ export default class QParser<T extends Record<string, any>> {
         if (v === 'NOW') {
           v = new Date()
         } else if (typeof v === 'string') {
-          const m1 = /^([-+]\d+)(\S+)$/.exec(v)
-          let isMomentParsed = false
-          if (m1) {
-            try {
-              v = dayjs().add(parseInt(m1[1]), m1[2] as any).toDate()
-              isMomentParsed = true
-            } catch (e) { }
-          }
-
-          if (!isMomentParsed) {
-            v = dayjs(v).toDate() || v
-          }
+          try {
+            v = dayjs().add(parseDurationToSeconds(v), 'second').toDate()
+          } catch (e) { }
         }
       }
 
@@ -315,7 +307,9 @@ export default class QParser<T extends Record<string, any>> {
           let itemK = dotGetter(item, k)
 
           if (this.sets.isDate.has(k)) {
-            itemK = dayjs(itemK).toDate()
+            try {
+              itemK = dayjs(maybeDatestring(itemK)).toDate()
+            } catch (e) {}
           }
 
           if (v && v.constructor === {}.constructor &&
