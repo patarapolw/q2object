@@ -28,9 +28,10 @@
     "typescript": "^3.7.4"
   },
   "dependencies": {
+    "@patarapolw/deepfind": "^0.1.9",
     "dayjs": "^1.8.19",
-    "nanoid": "^2.1.9",
     "is-datestring": "*",
-    "jstimeparse": "*"
+    "jstimeparse": "*",
+    "nanoid": "^2.1.9"
   }
 }

@@ -1,12 +1,12 @@
-import fs from 'fs'
+// import fs from 'fs'
 
-import yaml from 'js-yaml'
+// import yaml from 'js-yaml'
 
-import QParser from '@/.'
+// import QParser from '@/.'
 
-const qp = new QParser('date<-1d', {
-  isDate: ['date'],
-  isString: ['title', 'tag'],
-})
+// const qp = new QParser('date<-1d', {
+//   isDate: ['date'],
+//   isString: ['title', 'tag'],
+// })
 
-console.log(qp.result.cond)
+// console.log(qp.result.cond)

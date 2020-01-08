@@ -1597,6 +1597,11 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
+"@patarapolw/deepfind@^0.1.9":
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/@patarapolw/deepfind/-/deepfind-0.1.9.tgz#1ec2e0dcf4b9cc1481a077282850094981eead56"
+  integrity sha512-s45wzJ5fCo90gpNsLZi/MM4NrtoGArgGRUX99ir/wKNYVvLOBmZcE+Obpc9MgoccAXp3hBywjUAHmoVlNP8ANQ==
+
 "@types/eslint-visitor-keys@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@types/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#1ee30d79544ca84d68d4b3cdb0af4f205663dd2d"

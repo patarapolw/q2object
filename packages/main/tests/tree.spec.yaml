@@ -1,0 +1,116 @@
+parseTree:
+  - name: Empty string
+    input: ''
+    expected: {}
+  - name: Blank string
+    input: ' '
+    expected: {}
+  - name: No quotes
+    input: a=b
+    expected:
+      k: a
+      op: '='
+      v: b
+  - name: Numbers are intepreted as strings
+    input: a=1
+    expected:
+      k: a
+      op: '='
+      v: '1'
+  - name: Quotes are preserved
+    input: "'a'=\"b\""
+    expected:
+      k: "'a'"
+      op: '='
+      v: '"b"'
+  - name: Op can be customized
+    input: 'a>=b'
+    expected:
+      k: a
+      op: '>='
+      v: b
+  - name: Negative are only interpreted if in front
+    input: '-date<-3h'
+    expected:
+      sign: '-'
+      k: date
+      op: '<'
+      v: '-3h'
+  - name: "Spaces are interpreted as '' Array"
+    input: "'a'=\"b\" -c='d'"
+    expected:
+      '':
+        - k: "'a'"
+          op: '='
+          v: '"b"'
+        - sign: '-'
+          k: c
+          op: '='
+          v: "'d'"
+  - name: "' OR ' are interpreted as OR Array"
+    input: "'a'=\"b\" OR -c='d'"
+    expected:
+      OR:
+        - k: "'a'"
+          op: '='
+          v: '"b"'
+        - sign: '-'
+          k: c
+          op: '='
+          v: "'d'"
+  - name: Mixed Spaces and OR should throws an Error
+    input: 'a=b c=d OR e=f'
+    error: Only one top-level operator is allowed at a time
+  - name: Brackets allow mixing of Spaces and OR 1
+    input: 'a=b (c=d OR e=f)'
+    expected:
+      '':
+        - k: a
+          op: =
+          v: b
+        - v:
+            OR:
+              - k: c
+                op: =
+                v: d
+              - k: e
+                op: =
+                v: f
+  - name: Brackets allow mixing of Spaces and OR 2
+    input: '(a=b c=d) OR e=f'
+    expected:
+      OR:
+        - v:
+            '':
+              - k: a
+                op: =
+                v: b
+              - k: c
+                op: =
+                v: d
+        - k: e
+          op: =
+          v: f
+  - name: Nested brackets of the same type is also allowed
+    input: '{x=2 OR {a=b c=d} OR e=f} j=1'
+    expected:
+      '':
+        - v:
+            OR:
+              - k: x
+                op: =
+                v: '2'
+              - v:
+                  '':
+                    - k: a
+                      op: =
+                      v: b
+                    - k: c
+                      op: =
+                      v: d
+              - k: e
+                op: =
+                v: f
+        - k: j
+          op: =
+          v: '1'
